@@ -1,11 +1,14 @@
 import IDBCCraftingData from "./types/IDBCCraftingData";
 import {MongoClient} from 'mongodb';
 import ICraftingData from "./types/ICraftingData";
+import * as dotenv from 'dotenv';
+
+dotenv.config()
 
 const axios = require('axios')
 const craftedData = require('./assets/craftingData.json')
 
-const url = 'mongodb+srv://admin:SpozQMGIiUDNJKu9@crafteditemsdb.kp6faxe.mongodb.net/craftedItemsDB?retryWrites=true&w=majority';
+const url = `mongodb+srv://${process.env.ACC}:${process.env.PW}@crafteditemsdb.kp6faxe.mongodb.net/craftedItemsDB?retryWrites=true&w=majority`;
 const collectionName = 'craftedItems';
 
 const fetchWoWHead = async (id: number) => {

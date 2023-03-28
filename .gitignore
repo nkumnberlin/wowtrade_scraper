@@ -10,3 +10,6 @@ temp/
 casc_extract/cache/data
 casc_extract/cache/index
 /casc_extract/cache/
+
+.env
+
