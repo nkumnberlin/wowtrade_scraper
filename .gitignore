@@ -5,3 +5,8 @@
 
 # ignore ALL files in ANY directory named temp
 temp/
+
+/casc_extract/output
+casc_extract/cache/data
+casc_extract/cache/index
+/casc_extract/cache/
