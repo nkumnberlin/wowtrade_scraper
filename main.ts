@@ -171,11 +171,11 @@ async function addDataToPlanetScale(craftingDataResult: ICraftingData[]) {
 }
 
 async function main() {
-  const craftingData: IDBCCraftingData[] = craftedData;
-  const craftingDataResult = await fetchWoWHeadData(craftingData);
+  // const craftingData: IDBCCraftingData[] = craftedData;
+  // const craftingDataResult = await fetchWoWHeadData(craftingData);
   // iteriere ueber die 10 professionjson und ziehe die recipe ids raus und weise den mathces diese zu
   // await addDataToMongo(craftingDataResult);
-  await addDataToPlanetScale(craftingDataResult);
+  await addDataToPlanetScale(cratedItemsMongo);
   // await getDataForTestingFromPlanetScale();
 }
 
