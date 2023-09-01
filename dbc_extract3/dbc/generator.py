@@ -809,7 +809,7 @@ class ItemDataGenerator(DataGenerator):
                 return [ '0', '0' ]
             return [ '&__{}_data[{}]'.format(self.format_str('item_stats'), stats[0]), str(stats[1]) ]
 
-        self._out.write('// Items, ilevel {}-{}, wow build {}\n\n'.format(
+        self._out.write('// SubItem, ilevel {}-{}, wow build {}\n\n'.format(
                 self._options.min_ilevel, self._options.max_ilevel, self._options.build))
 
         CHUNK_SIZE = 1<<14
@@ -2714,7 +2714,7 @@ class SpellDataGenerator(DataGenerator):
 
             enchant_spell_id = 0
             for effect in spell._effects:
-                # Grab Enchant Items and Create Items (create item will be filtered further)
+                # Grab Enchant SubItem and Create SubItem (create item will be filtered further)
                 if not effect or (effect.type != 53 and effect.type != 24):
                     continue
 
@@ -2859,7 +2859,7 @@ class SpellDataGenerator(DataGenerator):
                     sid = getattr(data, 'id_property_%d' % attr_id)
                     self.process_spell(sid, ids, 0, 0)
 
-        # Items with a spell identifier as "stats"
+        # SubItem with a spell identifier as "stats"
         for item in self.db('ItemSparse').values():
             # Allow neck, finger, trinkets, weapons, 2hweapons to bypass ilevel checking
             ilevel = item.ilevel

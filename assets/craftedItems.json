@@ -1,0 +1,2215 @@
+[{
+  "id": 985,
+  "id_crafted_item": 204217,
+  "item_name": "unstable-elementium",
+  "id_recipe_item": 48322
+},{
+  "id": 995,
+  "id_crafted_item": 202287,
+  "item_name": "paw-made-winterpelt-reagent-bag",
+  "id_recipe_item": 48470
+},{
+  "id": 6,
+  "id_crafted_item": 192081,
+  "item_name": "shield-of-the-hearth",
+  "id_recipe_item": 46672
+},{
+  "id": 10,
+  "id_crafted_item": 189182,
+  "item_name": null
+},{
+  "id": 116,
+  "id_crafted_item": 190321,
+  "item_name": "awakened-fire"
+},{
+  "id": 118,
+  "id_crafted_item": 190329,
+  "item_name": "awakened-frost"
+},{
+  "id": 119,
+  "id_crafted_item": 190316,
+  "item_name": "awakened-earth"
+},{
+  "id": 120,
+  "id_crafted_item": 190327,
+  "item_name": "awakened-air"
+},{
+  "id": 121,
+  "id_crafted_item": 190519,
+  "item_name": "allied-chestplate-of-generosity",
+  "id_recipe_item": 46678
+},{
+  "id": 122,
+  "id_crafted_item": 190503,
+  "item_name": "primal-molten-defender",
+  "id_recipe_item": 46673
+},{
+  "id": 123,
+  "id_crafted_item": 190514,
+  "item_name": "obsidian-seared-claymore",
+  "id_recipe_item": 46703
+},{
+  "id": 124,
+  "id_crafted_item": 191241,
+  "item_name": "draconium-sickle",
+  "id_recipe_item": 46841
+},{
+  "id": 125,
+  "id_crafted_item": 191240,
+  "item_name": "draconium-skinning-knife",
+  "id_recipe_item": 46847
+},{
+  "id": 126,
+  "id_crafted_item": 191242,
+  "item_name": "draconium-pickaxe",
+  "id_recipe_item": 46845
+},{
+  "id": 127,
+  "id_crafted_item": 191238,
+  "item_name": "draconium-leatherworkers-knife"
+},{
+  "id": 128,
+  "id_crafted_item": 191234,
+  "item_name": "alchemists-sturdy-mixing-rod"
+},{
+  "id": 129,
+  "id_crafted_item": 191233,
+  "item_name": "chefs-smooth-rolling-pin"
+},{
+  "id": 130,
+  "id_crafted_item": 191237,
+  "item_name": "draconium-blacksmiths-hammer"
+},{
+  "id": 131,
+  "id_crafted_item": 191239,
+  "item_name": "draconium-needle-set",
+  "id_recipe_item": 46849
+},{
+  "id": 134,
+  "id_crafted_item": 191236,
+  "item_name": "draconium-leatherworkers-toolset"
+},{
+  "id": 135,
+  "id_crafted_item": 191235,
+  "item_name": "draconium-blacksmiths-toolbox"
+},{
+  "id": 136,
+  "id_crafted_item": 191224,
+  "item_name": "khazgorite-sickle"
+},{
+  "id": 137,
+  "id_crafted_item": 191231,
+  "item_name": "alchemists-brilliant-mixing-rod"
+},{
+  "id": 138,
+  "id_crafted_item": 191888,
+  "item_name": "khazgorite-blacksmiths-hammer"
+},{
+  "id": 139,
+  "id_crafted_item": 191232,
+  "item_name": "chefs-splendid-rolling-pin"
+},{
+  "id": 140,
+  "id_crafted_item": 191223,
+  "item_name": "khazgorite-pickaxe"
+},{
+  "id": 141,
+  "id_crafted_item": 191227,
+  "item_name": "khazgorite-leatherworkers-knife"
+},{
+  "id": 144,
+  "id_crafted_item": 191226,
+  "item_name": "khazgorite-needle-set"
+},{
+  "id": 145,
+  "id_crafted_item": 191225,
+  "item_name": "khazgorite-skinning-knife"
+},{
+  "id": 146,
+  "id_crafted_item": 191229,
+  "item_name": "khazgorite-leatherworkers-toolset"
+},{
+  "id": 147,
+  "id_crafted_item": 191228,
+  "item_name": "black-dragon-touched-hammer",
+  "id_recipe_item": 46835
+},{
+  "id": 148,
+  "id_crafted_item": 191230,
+  "item_name": "khazgorite-blacksmiths-toolbox"
+},{
+  "id": 153,
+  "id_crafted_item": 191256,
+  "item_name": "serevite-skeleton-key",
+  "id_recipe_item": 46859
+},{
+  "id": 154,
+  "id_crafted_item": 191260,
+  "item_name": "serevite-repair-hammer",
+  "id_recipe_item": 46829
+},{
+  "id": 156,
+  "id_crafted_item": 191886,
+  "item_name": "alvin-the-anvil",
+  "id_recipe_item": 46860
+},{
+  "id": 157,
+  "id_crafted_item": 190523,
+  "item_name": "frostfire-legguards-of-preparation",
+  "id_recipe_item": 46674
+},{
+  "id": 158,
+  "id_crafted_item": 191623,
+  "item_name": "unstable-frostfire-belt",
+  "id_recipe_item": 46675
+},{
+  "id": 159,
+  "id_crafted_item": 190522,
+  "item_name": "infurious-helm-of-vengeance",
+  "id_recipe_item": 46676
+},{
+  "id": 160,
+  "id_crafted_item": 191985,
+  "item_name": "infurious-warboots-of-impunity",
+  "id_recipe_item": 46677
+},{
+  "id": 161,
+  "id_crafted_item": 190526,
+  "item_name": "allied-wristguard-of-companionship",
+  "id_recipe_item": 46679
+},{
+  "id": 162,
+  "id_crafted_item": 190520,
+  "item_name": "zzoldpauldrons-of-the-dragon"
+},{
+  "id": 163,
+  "id_crafted_item": 190521,
+  "item_name": "zzoldtraitorous-primal-gauntlets-of-the-dragon"
+},{
+  "id": 164,
+  "id_crafted_item": 189538,
+  "item_name": "explorers-plate-chestguard"
+},{
+  "id": 165,
+  "id_crafted_item": 189537,
+  "item_name": "explorers-plate-boots"
+},{
+  "id": 166,
+  "id_crafted_item": 189539,
+  "item_name": "explorers-plate-bracers"
+},{
+  "id": 167,
+  "id_crafted_item": 190495,
+  "item_name": "primal-molten-breastplate",
+  "id_recipe_item": 46685
+},{
+  "id": 168,
+  "id_crafted_item": 190496,
+  "item_name": "primal-molten-sabatons",
+  "id_recipe_item": 46686
+},{
+  "id": 169,
+  "id_crafted_item": 190497,
+  "item_name": "primal-molten-gauntlets",
+  "id_recipe_item": 46687
+},{
+  "id": 170,
+  "id_crafted_item": 190498,
+  "item_name": "primal-molten-helm",
+  "id_recipe_item": 46688
+},{
+  "id": 171,
+  "id_crafted_item": 190499,
+  "item_name": "primal-molten-legplates",
+  "id_recipe_item": 46689
+},{
+  "id": 172,
+  "id_crafted_item": 190500,
+  "item_name": "primal-molten-pauldrons",
+  "id_recipe_item": 46690
+},{
+  "id": 173,
+  "id_crafted_item": 190501,
+  "item_name": "primal-molten-greatbelt",
+  "id_recipe_item": 46691
+},{
+  "id": 174,
+  "id_crafted_item": 190502,
+  "item_name": "primal-molten-vambraces",
+  "id_recipe_item": 46692
+},{
+  "id": 175,
+  "id_crafted_item": 190487,
+  "item_name": "draconium-axe",
+  "id_recipe_item": 46693
+},{
+  "id": 176,
+  "id_crafted_item": 190484,
+  "item_name": "draconium-sword",
+  "id_recipe_item": 46694
+},{
+  "id": 177,
+  "id_crafted_item": 190486,
+  "item_name": "draconium-great-mace",
+  "id_recipe_item": 46695
+},{
+  "id": 178,
+  "id_crafted_item": 190482,
+  "item_name": "draconium-stiletto",
+  "id_recipe_item": 46696
+},{
+  "id": 179,
+  "id_crafted_item": 190483,
+  "item_name": "draconium-dirk",
+  "id_recipe_item": 46697
+},{
+  "id": 180,
+  "id_crafted_item": 190485,
+  "item_name": "draconium-knuckles",
+  "id_recipe_item": 46698
+},{
+  "id": 181,
+  "id_crafted_item": 190512,
+  "item_name": "obsidian-seared-runeaxe",
+  "id_recipe_item": 46699
+},{
+  "id": 182,
+  "id_crafted_item": 190518,
+  "item_name": "obsidian-seared-slicer",
+  "id_recipe_item": 46700
+},{
+  "id": 183,
+  "id_crafted_item": 190517,
+  "item_name": "obsidian-seared-invoker",
+  "id_recipe_item": 46701
+},{
+  "id": 184,
+  "id_crafted_item": 190516,
+  "item_name": "obsidian-seared-crusher",
+  "id_recipe_item": 46702
+},{
+  "id": 185,
+  "id_crafted_item": 190513,
+  "item_name": "obsidian-seared-facesmasher",
+  "id_recipe_item": 46704
+},{
+  "id": 186,
+  "id_crafted_item": 190515,
+  "item_name": "obsidian-seared-halberd",
+  "id_recipe_item": 46705
+},{
+  "id": 187,
+  "id_crafted_item": 190511,
+  "item_name": "obsidian-seared-hexsword",
+  "id_recipe_item": 46706
+},{
+  "id": 188,
+  "id_crafted_item": 190509,
+  "item_name": "primal-molten-mace",
+  "id_recipe_item": 46707
+},{
+  "id": 189,
+  "id_crafted_item": 190507,
+  "item_name": "primal-molten-longsword",
+  "id_recipe_item": 46708
+},{
+  "id": 190,
+  "id_crafted_item": 190510,
+  "item_name": "primal-molten-greataxe",
+  "id_recipe_item": 46646
+},{
+  "id": 191,
+  "id_crafted_item": 190506,
+  "item_name": "primal-molten-spellblade",
+  "id_recipe_item": 46645
+},{
+  "id": 192,
+  "id_crafted_item": 190505,
+  "item_name": "primal-molten-shortblade",
+  "id_recipe_item": 46644
+},{
+  "id": 193,
+  "id_crafted_item": 190508,
+  "item_name": "primal-molten-warglaive",
+  "id_recipe_item": 46625
+},{
+  "id": 194,
+  "id_crafted_item": 191935,
+  "item_name": null
+},{
+  "id": 200,
+  "id_crafted_item": 191491,
+  "item_name": "sustaining-alchemist-stone",
+  "id_recipe_item": 46794
+},{
+  "id": 201,
+  "id_crafted_item": 191492,
+  "item_name": "alacritous-alchemist-stone",
+  "id_recipe_item": 46795
+},{
+  "id": 251,
+  "id_crafted_item": 193003,
+  "item_name": "idol-of-the-life-binder",
+  "id_recipe_item": 46971
+},{
+  "id": 252,
+  "id_crafted_item": 193004,
+  "item_name": "idol-of-the-spell-weaver",
+  "id_recipe_item": 46972
+},{
+  "id": 253,
+  "id_crafted_item": 193005,
+  "item_name": "idol-of-the-dreamer",
+  "id_recipe_item": 46973
+},{
+  "id": 254,
+  "id_crafted_item": 193006,
+  "item_name": "idol-of-the-earth-warder",
+  "id_recipe_item": 46974
+},{
+  "id": 255,
+  "id_crafted_item": 192996,
+  "item_name": "pendant-of-impending-perils",
+  "id_recipe_item": 46975
+},{
+  "id": 256,
+  "id_crafted_item": 192997,
+  "item_name": "crimson-combatants-jeweled-signet"
+},{
+  "id": 257,
+  "id_crafted_item": 192998,
+  "item_name": "crimson-combatants-jeweled-amulet"
+},{
+  "id": 258,
+  "id_crafted_item": 192999,
+  "item_name": "signet-of-titanic-insight",
+  "id_recipe_item": 46978
+},{
+  "id": 259,
+  "id_crafted_item": 193000,
+  "item_name": "ring-bound-hourglass",
+  "id_recipe_item": 46979
+},{
+  "id": 260,
+  "id_crafted_item": 193001,
+  "item_name": "elemental-lariat",
+  "id_recipe_item": 46980
+},{
+  "id": 261,
+  "id_crafted_item": 193002,
+  "item_name": "choker-of-shielding",
+  "id_recipe_item": 46981
+},{
+  "id": 266,
+  "id_crafted_item": 193887,
+  "item_name": "jeweled-ruby-whelpling",
+  "id_recipe_item": 46986
+},{
+  "id": 267,
+  "id_crafted_item": 193886,
+  "item_name": "jeweled-sapphire-whelpling",
+  "id_recipe_item": 46988
+},{
+  "id": 268,
+  "id_crafted_item": 193888,
+  "item_name": "jeweled-emerald-whelpling",
+  "id_recipe_item": 46987
+},{
+  "id": 269,
+  "id_crafted_item": 193889,
+  "item_name": "jeweled-onyx-whelpling",
+  "id_recipe_item": 46989
+},{
+  "id": 270,
+  "id_crafted_item": 193885,
+  "item_name": "jeweled-amber-whelpling",
+  "id_recipe_item": 46990
+},{
+  "id": 272,
+  "id_crafted_item": 193032,
+  "item_name": "jeweled-offering",
+  "id_recipe_item": 46992
+},{
+  "id": 273,
+  "id_crafted_item": 193033,
+  "item_name": "convergent-prism",
+  "id_recipe_item": 46993
+},{
+  "id": 274,
+  "id_crafted_item": 193034,
+  "item_name": null
+},{
+  "id": 275,
+  "id_crafted_item": 193035,
+  "item_name": "bold-print-bifocals",
+  "id_recipe_item": 47622
+},{
+  "id": 276,
+  "id_crafted_item": 193036,
+  "item_name": "left-handed-magnifying-glass",
+  "id_recipe_item": 46996
+},{
+  "id": 277,
+  "id_crafted_item": 193037,
+  "item_name": "sundered-onyx-loupe",
+  "id_recipe_item": 46997
+},{
+  "id": 278,
+  "id_crafted_item": 193038,
+  "item_name": "chromatic-focus",
+  "id_recipe_item": 46998
+},{
+  "id": 279,
+  "id_crafted_item": 193039,
+  "item_name": "fine-print-trifocals",
+  "id_recipe_item": 46999
+},{
+  "id": 280,
+  "id_crafted_item": 193040,
+  "item_name": "magnificent-margin-magnifier",
+  "id_recipe_item": 47000
+},{
+  "id": 281,
+  "id_crafted_item": 193041,
+  "item_name": "alexstraszite-loupes",
+  "id_recipe_item": 47001
+},{
+  "id": 282,
+  "id_crafted_item": 193042,
+  "item_name": "resonant-focus",
+  "id_recipe_item": 47002
+},{
+  "id": 288,
+  "id_crafted_item": 192893,
+  "item_name": "jeweled-dragons-heart"
+},{
+  "id": 292,
+  "id_crafted_item": 193371,
+  "item_name": "rhinestone-sunglasses"
+},{
+  "id": 294,
+  "id_crafted_item": 193399,
+  "item_name": "life-bound-chestpiece",
+  "id_recipe_item": 47098
+},{
+  "id": 295,
+  "id_crafted_item": 193466,
+  "item_name": "acidic-hailstone-treads",
+  "id_recipe_item": 47107
+},{
+  "id": 296,
+  "id_crafted_item": 193487,
+  "item_name": "alchemists-hat"
+},{
+  "id": 297,
+  "id_crafted_item": 193459,
+  "item_name": "ancestors-dew-drippers"
+},{
+  "id": 299,
+  "id_crafted_item": 193612,
+  "item_name": "smithing-apron",
+  "id_recipe_item": 47137
+},{
+  "id": 302,
+  "id_crafted_item": 193464,
+  "item_name": "allied-legguards-of-sansok-khan",
+  "id_recipe_item": 47132
+},{
+  "id": 303,
+  "id_crafted_item": 193462,
+  "item_name": "infurious-chainhelm-protector",
+  "id_recipe_item": 47109
+},{
+  "id": 304,
+  "id_crafted_item": 193461,
+  "item_name": "infurious-boots-of-reprieve",
+  "id_recipe_item": 47108
+},{
+  "id": 309,
+  "id_crafted_item": 193485,
+  "item_name": "protective-gloves",
+  "id_recipe_item": 47142
+},{
+  "id": 310,
+  "id_crafted_item": 193492,
+  "item_name": "masterwork-smock",
+  "id_recipe_item": 47151
+},{
+  "id": 312,
+  "id_crafted_item": 193470,
+  "item_name": "feral-hide-drums",
+  "id_recipe_item": 47140
+},{
+  "id": 313,
+  "id_crafted_item": 193494,
+  "item_name": "flaring-cowl",
+  "id_recipe_item": 47094
+},{
+  "id": 316,
+  "id_crafted_item": 193476,
+  "item_name": "gnoll-tent",
+  "id_recipe_item": 47167
+},{
+  "id": 317,
+  "id_crafted_item": 193407,
+  "item_name": "life-bound-belt",
+  "id_recipe_item": 47104
+},{
+  "id": 318,
+  "id_crafted_item": 193419,
+  "item_name": "life-bound-bindings",
+  "id_recipe_item": 47105
+},{
+  "id": 319,
+  "id_crafted_item": 193398,
+  "item_name": "life-bound-boots",
+  "id_recipe_item": 47099
+},{
+  "id": 320,
+  "id_crafted_item": 193400,
+  "item_name": "life-bound-cap",
+  "id_recipe_item": 47101
+},{
+  "id": 321,
+  "id_crafted_item": 193418,
+  "item_name": "life-bound-gloves",
+  "id_recipe_item": 47100
+},{
+  "id": 322,
+  "id_crafted_item": 193406,
+  "item_name": "life-bound-shoulderpads",
+  "id_recipe_item": 47103
+},{
+  "id": 323,
+  "id_crafted_item": 193408,
+  "item_name": "life-bound-trousers",
+  "id_recipe_item": 47102
+},{
+  "id": 324,
+  "id_crafted_item": 193453,
+  "item_name": "allied-heartwarming-fur-coat",
+  "id_recipe_item": 47084
+},{
+  "id": 325,
+  "id_crafted_item": 193479,
+  "item_name": "floral-basket",
+  "id_recipe_item": 47146
+},{
+  "id": 326,
+  "id_crafted_item": 193434,
+  "item_name": "crimson-combatants-resilient-belt"
+},{
+  "id": 327,
+  "id_crafted_item": 193437,
+  "item_name": "crimson-combatants-resilient-wristwraps"
+},{
+  "id": 328,
+  "id_crafted_item": 193430,
+  "item_name": "crimson-combatants-resilient-boots"
+},{
+  "id": 329,
+  "id_crafted_item": 193432,
+  "item_name": "crimson-combatants-resilient-mask"
+},{
+  "id": 330,
+  "id_crafted_item": 193431,
+  "item_name": "crimson-combatants-resilient-chestpiece"
+},{
+  "id": 331,
+  "id_crafted_item": 193436,
+  "item_name": "crimson-combatants-resilient-gloves"
+},{
+  "id": 332,
+  "id_crafted_item": 193433,
+  "item_name": "crimson-combatants-resilient-shoulderpads"
+},{
+  "id": 333,
+  "id_crafted_item": 193435,
+  "item_name": "crimson-combatants-resilient-trousers"
+},{
+  "id": 334,
+  "id_crafted_item": 193388,
+  "item_name": "pioneers-leather-wristguards"
+},{
+  "id": 335,
+  "id_crafted_item": 193386,
+  "item_name": "pioneers-leather-boots"
+},{
+  "id": 336,
+  "id_crafted_item": 193390,
+  "item_name": "pioneers-leather-tunic"
+},{
+  "id": 337,
+  "id_crafted_item": 193449,
+  "item_name": "bow-of-the-dragon-hunters",
+  "id_recipe_item": 47170
+},{
+  "id": 338,
+  "id_crafted_item": 193615,
+  "item_name": "jewelers-cover"
+},{
+  "id": 339,
+  "id_crafted_item": 193486,
+  "item_name": "resilient-smock",
+  "id_recipe_item": 47150
+},{
+  "id": 340,
+  "id_crafted_item": 193493,
+  "item_name": "expert-alchemists-hat"
+},{
+  "id": 341,
+  "id_crafted_item": 193613,
+  "item_name": "flameproof-apron",
+  "id_recipe_item": 47138
+},{
+  "id": 342,
+  "id_crafted_item": 193491,
+  "item_name": "shockproof-gloves",
+  "id_recipe_item": 47143
+},{
+  "id": 343,
+  "id_crafted_item": 193488,
+  "item_name": "lavish-floral-pack",
+  "id_recipe_item": 47147
+},{
+  "id": 344,
+  "id_crafted_item": 193616,
+  "item_name": "resplendent-cover",
+  "id_recipe_item": 47149
+},{
+  "id": 345,
+  "id_crafted_item": 193489,
+  "item_name": "reinforced-pack",
+  "id_recipe_item": 47161
+},{
+  "id": 346,
+  "id_crafted_item": 193490,
+  "item_name": "expert-skinners-cap"
+},{
+  "id": 348,
+  "id_crafted_item": 193454,
+  "item_name": "old-spirits-wristwraps"
+},{
+  "id": 350,
+  "id_crafted_item": 193425,
+  "item_name": "flame-touched-chain",
+  "id_recipe_item": 47130
+},{
+  "id": 351,
+  "id_crafted_item": 193428,
+  "item_name": "flame-touched-cuffs",
+  "id_recipe_item": 47131
+},{
+  "id": 352,
+  "id_crafted_item": 193421,
+  "item_name": "flame-touched-treads",
+  "id_recipe_item": 47125
+},{
+  "id": 353,
+  "id_crafted_item": 193423,
+  "item_name": "flame-touched-helmet",
+  "id_recipe_item": 47127
+},{
+  "id": 354,
+  "id_crafted_item": 193422,
+  "item_name": "flame-touched-chainmail",
+  "id_recipe_item": 47124
+},{
+  "id": 355,
+  "id_crafted_item": 193427,
+  "item_name": "flame-touched-handguards",
+  "id_recipe_item": 47126
+},{
+  "id": 356,
+  "id_crafted_item": 193424,
+  "item_name": "flame-touched-spaulders",
+  "id_recipe_item": 47129
+},{
+  "id": 357,
+  "id_crafted_item": 193426,
+  "item_name": "flame-touched-legguards",
+  "id_recipe_item": 47128
+},{
+  "id": 360,
+  "id_crafted_item": 193475,
+  "item_name": "masterwork-riding-crop"
+},{
+  "id": 361,
+  "id_crafted_item": 193495,
+  "item_name": "savage-bow"
+},{
+  "id": 362,
+  "id_crafted_item": 193393,
+  "item_name": "trailblazers-scale-bracers"
+},{
+  "id": 363,
+  "id_crafted_item": 193392,
+  "item_name": "trailblazers-scale-boots"
+},{
+  "id": 364,
+  "id_crafted_item": 193465,
+  "item_name": "scale-rein-grips",
+  "id_recipe_item": 47110
+},{
+  "id": 365,
+  "id_crafted_item": 193394,
+  "item_name": "trailblazers-scale-vest"
+},{
+  "id": 366,
+  "id_crafted_item": 193443,
+  "item_name": "crimson-combatants-adamant-girdle"
+},{
+  "id": 367,
+  "id_crafted_item": 193446,
+  "item_name": "crimson-combatants-adamant-cuffs"
+},{
+  "id": 368,
+  "id_crafted_item": 193439,
+  "item_name": "crimson-combatants-adamant-treads"
+},{
+  "id": 369,
+  "id_crafted_item": 193441,
+  "item_name": "crimson-combatants-adamant-cowl"
+},{
+  "id": 370,
+  "id_crafted_item": 193440,
+  "item_name": "crimson-combatants-adamant-chainmail"
+},{
+  "id": 371,
+  "id_crafted_item": 193445,
+  "item_name": "crimson-combatants-adamant-gauntlets"
+},{
+  "id": 372,
+  "id_crafted_item": 193442,
+  "item_name": "crimson-combatants-adamant-epaulettes"
+},{
+  "id": 373,
+  "id_crafted_item": 193444,
+  "item_name": "crimson-combatants-adamant-leggings"
+},{
+  "id": 374,
+  "id_crafted_item": 193482,
+  "item_name": "skinners-cap"
+},{
+  "id": 375,
+  "id_crafted_item": 193480,
+  "item_name": "durable-pack",
+  "id_recipe_item": 47160
+},{
+  "id": 376,
+  "id_crafted_item": 193451,
+  "item_name": "slimy-expulsion-boots",
+  "id_recipe_item": 47078
+},{
+  "id": 377,
+  "id_crafted_item": 193458,
+  "item_name": "snowball-makers",
+  "id_recipe_item": 47085
+},{
+  "id": 379,
+  "id_crafted_item": 193457,
+  "item_name": "string-of-spiritual-knick-knacks",
+  "id_recipe_item": 47082
+},{
+  "id": 380,
+  "id_crafted_item": 193383,
+  "item_name": "bonewrought-crossbow",
+  "id_recipe_item": 47172
+},{
+  "id": 382,
+  "id_crafted_item": 193456,
+  "item_name": "infurious-spirits-hood"
+},{
+  "id": 383,
+  "id_crafted_item": 193452,
+  "item_name": "toxic-thorn-footwraps",
+  "id_recipe_item": 47079
+},{
+  "id": 384,
+  "id_crafted_item": 193478,
+  "item_name": "tuskarr-beanbag",
+  "id_recipe_item": 47168
+},{
+  "id": 385,
+  "id_crafted_item": 193455,
+  "item_name": "infurious-footwraps-of-indemnity",
+  "id_recipe_item": 47080
+},{
+  "id": 386,
+  "id_crafted_item": 193460,
+  "item_name": "venom-steeped-stompers",
+  "id_recipe_item": 47106
+},{
+  "id": 387,
+  "id_crafted_item": 193463,
+  "item_name": "wind-spirits-lasso"
+},{
+  "id": 388,
+  "id_crafted_item": 193496,
+  "item_name": "witherrot-tome",
+  "id_recipe_item": 47077
+},{
+  "id": 396,
+  "id_crafted_item": 193893,
+  "item_name": "scalebelly-mackerel-lure",
+  "id_recipe_item": 47528
+},{
+  "id": 397,
+  "id_crafted_item": 193894,
+  "item_name": "thousandbite-piranha-lure",
+  "id_recipe_item": 47529
+},{
+  "id": 398,
+  "id_crafted_item": 193895,
+  "item_name": "temporal-dragonhead-lure",
+  "id_recipe_item": 47530
+},{
+  "id": 399,
+  "id_crafted_item": 193896,
+  "item_name": "cerulean-spinefish-lure",
+  "id_recipe_item": 47531
+},{
+  "id": 400,
+  "id_crafted_item": 194082,
+  "item_name": "band-of-new-beginnings",
+  "id_recipe_item": 47192
+},{
+  "id": 402,
+  "id_crafted_item": 193530,
+  "item_name": "allied-wristguards-of-time-dilation",
+  "id_recipe_item": 47222
+},{
+  "id": 403,
+  "id_crafted_item": 193526,
+  "item_name": "amice-of-the-blue",
+  "id_recipe_item": 47218
+},{
+  "id": 404,
+  "id_crafted_item": 193520,
+  "item_name": "azureweave-mantle",
+  "id_recipe_item": 47227
+},{
+  "id": 405,
+  "id_crafted_item": 193536,
+  "item_name": "azureweave-robe",
+  "id_recipe_item": 47225
+},{
+  "id": 406,
+  "id_crafted_item": 193525,
+  "item_name": "azureweave-slippers",
+  "id_recipe_item": 47226
+},{
+  "id": 407,
+  "id_crafted_item": 193513,
+  "item_name": "infurious-binding-of-gesticulation",
+  "id_recipe_item": 47219
+},{
+  "id": 408,
+  "id_crafted_item": 193524,
+  "item_name": "infurious-legwraps-of-possibility",
+  "id_recipe_item": 47220
+},{
+  "id": 409,
+  "id_crafted_item": 193531,
+  "item_name": "blue-dragon-riders-robe"
+},{
+  "id": 410,
+  "id_crafted_item": 193532,
+  "item_name": "blue-dragon-soles",
+  "id_recipe_item": 47221
+},{
+  "id": 411,
+  "id_crafted_item": 193535,
+  "item_name": "bronze-dragon-riders-wraps"
+},{
+  "id": 412,
+  "id_crafted_item": 193527,
+  "item_name": "chronocloth-gloves",
+  "id_recipe_item": 47228
+},{
+  "id": 413,
+  "id_crafted_item": 193537,
+  "item_name": "chronocloth-leggings",
+  "id_recipe_item": 47229
+},{
+  "id": 414,
+  "id_crafted_item": 193512,
+  "item_name": "chronocloth-sash",
+  "id_recipe_item": 47230
+},{
+  "id": 415,
+  "id_crafted_item": 193505,
+  "item_name": "crimson-combatants-wildercloth-bands"
+},{
+  "id": 416,
+  "id_crafted_item": 193522,
+  "item_name": "crimson-combatants-wildercloth-cloak"
+},{
+  "id": 417,
+  "id_crafted_item": 193507,
+  "item_name": "crimson-combatants-wildercloth-gloves"
+},{
+  "id": 418,
+  "id_crafted_item": 193506,
+  "item_name": "crimson-combatants-wildercloth-hood"
+},{
+  "id": 419,
+  "id_crafted_item": 193501,
+  "item_name": "crimson-combatants-wildercloth-leggings"
+},{
+  "id": 420,
+  "id_crafted_item": 193517,
+  "item_name": "crimson-combatants-wildercloth-sash"
+},{
+  "id": 421,
+  "id_crafted_item": 193502,
+  "item_name": "crimson-combatants-wildercloth-shoulderpads"
+},{
+  "id": 422,
+  "id_crafted_item": 193503,
+  "item_name": "crimson-combatants-wildercloth-treads"
+},{
+  "id": 423,
+  "id_crafted_item": 193514,
+  "item_name": "crimson-combatants-wildercloth-tunic"
+},{
+  "id": 424,
+  "id_crafted_item": 193540,
+  "item_name": "dragoncloth-tailoring-vestments",
+  "id_recipe_item": 47271
+},{
+  "id": 425,
+  "id_crafted_item": 193497,
+  "item_name": "surveyors-cloth-bands"
+},{
+  "id": 426,
+  "id_crafted_item": 193515,
+  "item_name": "surveyors-cloth-robe"
+},{
+  "id": 427,
+  "id_crafted_item": 193498,
+  "item_name": "surveyors-cloth-treads"
+},{
+  "id": 428,
+  "id_crafted_item": 193500,
+  "item_name": "surveyors-tailored-cloak"
+},{
+  "id": 429,
+  "id_crafted_item": 193521,
+  "item_name": "hood-of-surging-time",
+  "id_recipe_item": 47217
+},{
+  "id": 430,
+  "id_crafted_item": 193609,
+  "item_name": "crimson-combatants-draconium-armguards"
+},{
+  "id": 431,
+  "id_crafted_item": 193602,
+  "item_name": "crimson-combatants-draconium-breastplate"
+},{
+  "id": 432,
+  "id_crafted_item": 193604,
+  "item_name": "crimson-combatants-draconium-gauntlets"
+},{
+  "id": 433,
+  "id_crafted_item": 193606,
+  "item_name": "crimson-combatants-draconium-greaves"
+},{
+  "id": 434,
+  "id_crafted_item": 193605,
+  "item_name": "crimson-combatants-draconium-helm"
+},{
+  "id": 435,
+  "id_crafted_item": 193607,
+  "item_name": "crimson-combatants-draconium-pauldrons"
+},{
+  "id": 436,
+  "id_crafted_item": 193603,
+  "item_name": "crimson-combatants-draconium-sabatons"
+},{
+  "id": 437,
+  "id_crafted_item": 193608,
+  "item_name": "crimson-combatants-draconium-waistguard"
+},{
+  "id": 438,
+  "id_crafted_item": 193544,
+  "item_name": "masters-wildercloth-alchemists-robe"
+},{
+  "id": 439,
+  "id_crafted_item": 193545,
+  "item_name": "masters-wildercloth-chefs-hat"
+},{
+  "id": 440,
+  "id_crafted_item": 193533,
+  "item_name": "masters-wildercloth-enchanters-hat"
+},{
+  "id": 441,
+  "id_crafted_item": 193543,
+  "item_name": "masters-wildercloth-fishing-cap"
+},{
+  "id": 442,
+  "id_crafted_item": 193542,
+  "item_name": "masters-wildercloth-gardening-hat"
+},{
+  "id": 443,
+  "id_crafted_item": 193516,
+  "item_name": "vibrant-wildercloth-girdle",
+  "id_recipe_item": 47242
+},{
+  "id": 444,
+  "id_crafted_item": 193504,
+  "item_name": "vibrant-wildercloth-handwraps",
+  "id_recipe_item": 47238
+},{
+  "id": 445,
+  "id_crafted_item": 193523,
+  "item_name": "vibrant-wildercloth-headcover",
+  "id_recipe_item": 47239
+},{
+  "id": 446,
+  "id_crafted_item": 193511,
+  "item_name": "vibrant-wildercloth-shawl",
+  "id_recipe_item": 47235
+},{
+  "id": 447,
+  "id_crafted_item": 193508,
+  "item_name": "vibrant-wildercloth-shoulderspikes",
+  "id_recipe_item": 47241
+},{
+  "id": 448,
+  "id_crafted_item": 193518,
+  "item_name": "vibrant-wildercloth-slacks",
+  "id_recipe_item": 47240
+},{
+  "id": 449,
+  "id_crafted_item": 193519,
+  "item_name": "vibrant-wildercloth-slippers",
+  "id_recipe_item": 47237
+},{
+  "id": 450,
+  "id_crafted_item": 193509,
+  "item_name": "vibrant-wildercloth-vestments",
+  "id_recipe_item": 47236
+},{
+  "id": 451,
+  "id_crafted_item": 193510,
+  "item_name": "vibrant-wildercloth-wristwraps",
+  "id_recipe_item": 47243
+},{
+  "id": 452,
+  "id_crafted_item": 193528,
+  "item_name": "wildercloth-alchemists-robe"
+},{
+  "id": 453,
+  "id_crafted_item": 193534,
+  "item_name": "wildercloth-chefs-hat"
+},{
+  "id": 454,
+  "id_crafted_item": 193539,
+  "item_name": "wildercloth-enchanters-hat"
+},{
+  "id": 455,
+  "id_crafted_item": 193529,
+  "item_name": "wildercloth-fishing-cap",
+  "id_recipe_item": 47276
+},{
+  "id": 456,
+  "id_crafted_item": 193538,
+  "item_name": "wildercloth-gardening-hat",
+  "id_recipe_item": 47278
+},{
+  "id": 457,
+  "id_crafted_item": 193541,
+  "item_name": "wildercloth-tailors-coat"
+},{
+  "id": 460,
+  "id_crafted_item": 194018,
+  "item_name": "azureweave-expedition-pack",
+  "id_recipe_item": 47254
+},{
+  "id": 466,
+  "id_crafted_item": 194020,
+  "item_name": "chronocloth-reagent-bag",
+  "id_recipe_item": 47286
+},{
+  "id": 467,
+  "id_crafted_item": 194058,
+  "item_name": "cold-cushion",
+  "id_recipe_item": 47293
+},{
+  "id": 468,
+  "id_crafted_item": 194057,
+  "item_name": "cushion-of-time-travel",
+  "id_recipe_item": 47292
+},{
+  "id": 469,
+  "id_crafted_item": 194056,
+  "item_name": "duck-stuffed-duck-lovie",
+  "id_recipe_item": 47290
+},{
+  "id": 472,
+  "id_crafted_item": 194060,
+  "item_name": "dragonscale-expeditions-expedition-tent"
+},{
+  "id": 473,
+  "id_crafted_item": 194052,
+  "item_name": "forlorn-funeral-pall",
+  "id_recipe_item": 47291
+},{
+  "id": 476,
+  "id_crafted_item": 194019,
+  "item_name": "simply-stitched-reagent-bag",
+  "id_recipe_item": 47285
+},{
+  "id": 478,
+  "id_crafted_item": 194059,
+  "item_name": "market-tent",
+  "id_recipe_item": 47294
+},{
+  "id": 483,
+  "id_crafted_item": 194017,
+  "item_name": "wildercloth-bag",
+  "id_recipe_item": 47253
+},{
+  "id": 486,
+  "id_crafted_item": 194051,
+  "item_name": "wildercloth-weapon-upholstery"
+},{
+  "id": 491,
+  "id_crafted_item": 194428,
+  "item_name": "zzold-elemental-soul-cage-do-not-use"
+},{
+  "id": 494,
+  "id_crafted_item": 194541,
+  "item_name": "prototype-regal-barding-framework",
+  "id_recipe_item": 47311
+},{
+  "id": 495,
+  "id_crafted_item": 194542,
+  "item_name": "prototype-explorers-barding-framework"
+},{
+  "id": 499,
+  "id_crafted_item": 194714,
+  "item_name": "miguels-gift"
+},{
+  "id": 500,
+  "id_crafted_item": 194748,
+  "item_name": "split-lens-specs",
+  "id_recipe_item": 47338
+},{
+  "id": 501,
+  "id_crafted_item": 194902,
+  "item_name": "ooey-gooey-chocolate",
+  "id_recipe_item": 47354
+},{
+  "id": 503,
+  "id_crafted_item": 197756,
+  "item_name": "pebbled-rock-salts",
+  "id_recipe_item": 47361
+},{
+  "id": 504,
+  "id_crafted_item": 197757,
+  "item_name": "assorted-exotic-spices",
+  "id_recipe_item": 47362
+},{
+  "id": 505,
+  "id_crafted_item": 197758,
+  "item_name": "twice-baked-potato",
+  "id_recipe_item": 47367
+},{
+  "id": 506,
+  "id_crafted_item": 197759,
+  "item_name": "cheese-and-quackers",
+  "id_recipe_item": 47365
+},{
+  "id": 507,
+  "id_crafted_item": 197760,
+  "item_name": "mackerel-snackerel",
+  "id_recipe_item": 47366
+},{
+  "id": 508,
+  "id_crafted_item": 197761,
+  "item_name": "probably-protein",
+  "id_recipe_item": 47368
+},{
+  "id": 509,
+  "id_crafted_item": 197762,
+  "item_name": "sweet-and-sour-clam-chowder",
+  "id_recipe_item": 47369
+},{
+  "id": 510,
+  "id_crafted_item": 197763,
+  "item_name": "breakfast-of-draconic-champions",
+  "id_recipe_item": 47370
+},{
+  "id": 511,
+  "id_crafted_item": 197764,
+  "item_name": "salad-on-the-side",
+  "id_recipe_item": 47363
+},{
+  "id": 512,
+  "id_crafted_item": 197765,
+  "item_name": "impossibly-sharp-cutting-knife",
+  "id_recipe_item": 47364
+},{
+  "id": 513,
+  "id_crafted_item": 197766,
+  "item_name": "snow-in-a-cone",
+  "id_recipe_item": 47371
+},{
+  "id": 514,
+  "id_crafted_item": 197767,
+  "item_name": "blubbery-muffin",
+  "id_recipe_item": 47372
+},{
+  "id": 515,
+  "id_crafted_item": 197768,
+  "item_name": "celebratory-cake",
+  "id_recipe_item": 47373
+},{
+  "id": 516,
+  "id_crafted_item": 197769,
+  "item_name": "tasty-hatchlings-treat"
+},{
+  "id": 517,
+  "id_crafted_item": 197770,
+  "item_name": "zesty-water",
+  "id_recipe_item": 47376
+},{
+  "id": 518,
+  "id_crafted_item": 197771,
+  "item_name": "delicious-dragon-spittle",
+  "id_recipe_item": 47377
+},{
+  "id": 519,
+  "id_crafted_item": 197772,
+  "item_name": "churnbelly-tea",
+  "id_recipe_item": 47378
+},{
+  "id": 520,
+  "id_crafted_item": 197773,
+  "item_name": "zzoldkeg-of-timeless-wine"
+},{
+  "id": 521,
+  "id_crafted_item": 197774,
+  "item_name": "charred-hornswog-steaks",
+  "id_recipe_item": 47380
+},{
+  "id": 522,
+  "id_crafted_item": 197775,
+  "item_name": "scrambled-basilisk-eggs",
+  "id_recipe_item": 47381
+},{
+  "id": 523,
+  "id_crafted_item": 197776,
+  "item_name": "thrice-spiced-mammoth-kabob",
+  "id_recipe_item": 47382
+},{
+  "id": 524,
+  "id_crafted_item": 197777,
+  "item_name": "hopefully-healthy",
+  "id_recipe_item": 47383
+},{
+  "id": 525,
+  "id_crafted_item": 197778,
+  "item_name": "timely-demise",
+  "id_recipe_item": 47388
+},{
+  "id": 526,
+  "id_crafted_item": 197779,
+  "item_name": "filet-of-fangs",
+  "id_recipe_item": 47389
+},{
+  "id": 527,
+  "id_crafted_item": 197780,
+  "item_name": "seamoth-surprise",
+  "id_recipe_item": 47390
+},{
+  "id": 528,
+  "id_crafted_item": 197781,
+  "item_name": "salt-baked-fishcake",
+  "id_recipe_item": 47391
+},{
+  "id": 529,
+  "id_crafted_item": 197782,
+  "item_name": "feisty-fish-sticks",
+  "id_recipe_item": 47392
+},{
+  "id": 530,
+  "id_crafted_item": 197783,
+  "item_name": "aromatic-seafood-platter",
+  "id_recipe_item": 47393
+},{
+  "id": 531,
+  "id_crafted_item": 197784,
+  "item_name": "sizzling-seafood-medley",
+  "id_recipe_item": 47394
+},{
+  "id": 532,
+  "id_crafted_item": 197785,
+  "item_name": "revenge-served-cold"
+},{
+  "id": 533,
+  "id_crafted_item": 197786,
+  "item_name": "thousandbone-tongueslicer",
+  "id_recipe_item": 47396
+},{
+  "id": 534,
+  "id_crafted_item": 197787,
+  "item_name": "great-cerulean-sea",
+  "id_recipe_item": 47397
+},{
+  "id": 535,
+  "id_crafted_item": 197788,
+  "item_name": "braised-bruffalon-brisket",
+  "id_recipe_item": 47384
+},{
+  "id": 536,
+  "id_crafted_item": 197789,
+  "item_name": "riverside-picnic",
+  "id_recipe_item": 47385
+},{
+  "id": 537,
+  "id_crafted_item": 197790,
+  "item_name": "roast-duck-delight",
+  "id_recipe_item": 47386
+},{
+  "id": 538,
+  "id_crafted_item": 197791,
+  "item_name": "salted-meat-mash",
+  "id_recipe_item": 47387
+},{
+  "id": 539,
+  "id_crafted_item": 197792,
+  "item_name": "fated-fortune-cookie",
+  "id_recipe_item": 47398
+},{
+  "id": 540,
+  "id_crafted_item": 197793,
+  "item_name": "yusas-hearty-stew"
+},{
+  "id": 541,
+  "id_crafted_item": 197794,
+  "item_name": "grand-banquet-of-the-kaluak"
+},{
+  "id": 542,
+  "id_crafted_item": 197795,
+  "item_name": "hoard-of-draconic-delicacies",
+  "id_recipe_item": 47403
+},{
+  "id": 545,
+  "id_crafted_item": 197719,
+  "item_name": "artisans-sign"
+},{
+  "id": 547,
+  "id_crafted_item": 197736,
+  "item_name": "finished-prototype-regal-barding",
+  "id_recipe_item": 47646
+},{
+  "id": 548,
+  "id_crafted_item": 197735,
+  "item_name": "finished-prototype-explorers-barding"
+},{
+  "id": 553,
+  "id_crafted_item": 198401,
+  "item_name": "aileron-seamoth-lure",
+  "id_recipe_item": 47532
+},{
+  "id": 554,
+  "id_crafted_item": 198403,
+  "item_name": "islefin-dorado-lure",
+  "id_recipe_item": 47533
+},{
+  "id": 555,
+  "id_crafted_item": 198404,
+  "item_name": "bottled-pheromones",
+  "id_recipe_item": 47525
+},{
+  "id": 556,
+  "id_crafted_item": 193906,
+  "item_name": "elusive-creature-bait",
+  "id_recipe_item": 47527
+},{
+  "id": 558,
+  "id_crafted_item": 198322,
+  "item_name": "overengineered-sleeve-extenders",
+  "id_recipe_item": 47517
+},{
+  "id": 559,
+  "id_crafted_item": 198327,
+  "item_name": "needlessly-complex-wristguards",
+  "id_recipe_item": 47516
+},{
+  "id": 560,
+  "id_crafted_item": 198332,
+  "item_name": "complicated-cuffs",
+  "id_recipe_item": 47515
+},{
+  "id": 561,
+  "id_crafted_item": 198333,
+  "item_name": "difficult-wrist-protectors",
+  "id_recipe_item": 47514
+},{
+  "id": 562,
+  "id_crafted_item": 198335,
+  "item_name": "ol-smoky"
+},{
+  "id": 569,
+  "id_crafted_item": 198226,
+  "item_name": "khazgorite-fisherfriend"
+},{
+  "id": 574,
+  "id_crafted_item": 194872,
+  "item_name": "darkmoon-deck-box-inferno"
+},{
+  "id": 576,
+  "id_crafted_item": 198263,
+  "item_name": "bottomless-mireslush-ore-satchel",
+  "id_recipe_item": 47495
+},{
+  "id": 577,
+  "id_crafted_item": 194126,
+  "item_name": "spring-loaded-khazgorite-fabric-cutters"
+},{
+  "id": 578,
+  "id_crafted_item": 198244,
+  "item_name": "khazgorite-delvers-helmet"
+},{
+  "id": 579,
+  "id_crafted_item": 198235,
+  "item_name": "lapidarys-khazgorite-clamps"
+},{
+  "id": 611,
+  "id_crafted_item": 198328,
+  "item_name": "quality-assured-optics",
+  "id_recipe_item": 47439
+},{
+  "id": 612,
+  "id_crafted_item": 198329,
+  "item_name": "milestone-magnifiers",
+  "id_recipe_item": 47438
+},{
+  "id": 613,
+  "id_crafted_item": 198330,
+  "item_name": "deadline-deadeyes",
+  "id_recipe_item": 47437
+},{
+  "id": 614,
+  "id_crafted_item": 198331,
+  "item_name": "sentrys-stabilized-specs"
+},{
+  "id": 615,
+  "id_crafted_item": 198334,
+  "item_name": "p-e-w-x2"
+},{
+  "id": 616,
+  "id_crafted_item": 198323,
+  "item_name": "lightweight-ocular-lenses",
+  "id_recipe_item": 47434
+},{
+  "id": 617,
+  "id_crafted_item": 198324,
+  "item_name": "peripheral-vision-projectors",
+  "id_recipe_item": 47433
+},{
+  "id": 618,
+  "id_crafted_item": 198325,
+  "item_name": "oscillating-wilderness-opticals",
+  "id_recipe_item": 47432
+},{
+  "id": 619,
+  "id_crafted_item": 198326,
+  "item_name": "battle-ready-binoculars",
+  "id_recipe_item": 47431
+},{
+  "id": 620,
+  "id_crafted_item": 198243,
+  "item_name": "draconium-delvers-helmet"
+},{
+  "id": 621,
+  "id_crafted_item": 198262,
+  "item_name": "bottomless-stonecrust-ore-satchel",
+  "id_recipe_item": 47429
+},{
+  "id": 622,
+  "id_crafted_item": 198225,
+  "item_name": "draconium-fisherfriend",
+  "id_recipe_item": 47428
+},{
+  "id": 623,
+  "id_crafted_item": 198234,
+  "item_name": "lapidarys-draconium-clamps"
+},{
+  "id": 624,
+  "id_crafted_item": 194125,
+  "item_name": "spring-loaded-draconium-fabric-cutters",
+  "id_recipe_item": 47426
+},{
+  "id": 625,
+  "id_crafted_item": 198245,
+  "item_name": "draconium-encased-samophlange",
+  "id_recipe_item": 47425
+},{
+  "id": 626,
+  "id_crafted_item": 198204,
+  "item_name": "draconium-brainwave-amplifier",
+  "id_recipe_item": 47424
+},{
+  "id": 627,
+  "id_crafted_item": 198246,
+  "item_name": "khazgorite-encased-samophlange"
+},{
+  "id": 628,
+  "id_crafted_item": 198205,
+  "item_name": "khazgorite-brainwave-amplifier"
+},{
+  "id": 633,
+  "id_crafted_item": 198477,
+  "item_name": "darkmoon-deck-box-rime"
+},{
+  "id": 634,
+  "id_crafted_item": 198478,
+  "item_name": "darkmoon-deck-box-dance"
+},{
+  "id": 635,
+  "id_crafted_item": 198481,
+  "item_name": "darkmoon-deck-box-watcher"
+},{
+  "id": 637,
+  "id_crafted_item": 190396,
+  "item_name": "serevite-ore"
+},{
+  "id": 638,
+  "id_crafted_item": 190394,
+  "item_name": "serevite-ore"
+},{
+  "id": 639,
+  "id_crafted_item": 188658,
+  "item_name": "draconium-ore"
+},{
+  "id": 640,
+  "id_crafted_item": 190311,
+  "item_name": "draconium-ore"
+},{
+  "id": 641,
+  "id_crafted_item": 190313,
+  "item_name": "khazgorite-ore"
+},{
+  "id": 642,
+  "id_crafted_item": 190314,
+  "item_name": "khazgorite-ore"
+},{
+  "id": 647,
+  "id_crafted_item": 194827,
+  "item_name": "bundle-o-cards-dragon-isles"
+},{
+  "id": 648,
+  "id_crafted_item": 194704,
+  "item_name": "draconic-treatise-on-herbalism",
+  "id_recipe_item": 47598
+},{
+  "id": 649,
+  "id_crafted_item": 194708,
+  "item_name": "draconic-treatise-on-mining",
+  "id_recipe_item": 47594
+},{
+  "id": 650,
+  "id_crafted_item": 198454,
+  "item_name": "draconic-treatise-on-blacksmithing",
+  "id_recipe_item": 47600
+},{
+  "id": 651,
+  "id_crafted_item": 194700,
+  "item_name": "draconic-treatise-on-leatherworking",
+  "id_recipe_item": 47595
+},{
+  "id": 652,
+  "id_crafted_item": 194698,
+  "item_name": "draconic-treatise-on-tailoring",
+  "id_recipe_item": 47593
+},{
+  "id": 653,
+  "id_crafted_item": 194697,
+  "item_name": "draconic-treatise-on-alchemy",
+  "id_recipe_item": 47601
+},{
+  "id": 654,
+  "id_crafted_item": 194702,
+  "item_name": "draconic-treatise-on-enchanting",
+  "id_recipe_item": 47599
+},{
+  "id": 655,
+  "id_crafted_item": 194699,
+  "item_name": "draconic-treatise-on-inscription",
+  "id_recipe_item": 47597
+},{
+  "id": 656,
+  "id_crafted_item": 194703,
+  "item_name": "draconic-treatise-on-jewelcrafting",
+  "id_recipe_item": 47596
+},{
+  "id": 666,
+  "id_crafted_item": 194829,
+  "item_name": "fated-fortune-card"
+},{
+  "id": 674,
+  "id_crafted_item": 194877,
+  "item_name": "core-explorers-compendium"
+},{
+  "id": 675,
+  "id_crafted_item": 194879,
+  "item_name": "crackling-codex-of-the-isles",
+  "id_recipe_item": 47611
+},{
+  "id": 676,
+  "id_crafted_item": 194898,
+  "item_name": "illuminating-pillar-of-the-isles",
+  "id_recipe_item": 47667
+},{
+  "id": 677,
+  "id_crafted_item": 194897,
+  "item_name": "kinetic-pillar-of-the-isles",
+  "id_recipe_item": 47581
+},{
+  "id": 678,
+  "id_crafted_item": 194893,
+  "item_name": "overseers-writhebark-stave"
+},{
+  "id": 679,
+  "id_crafted_item": 194892,
+  "item_name": "pioneers-writhebark-stave"
+},{
+  "id": 680,
+  "id_crafted_item": 194894,
+  "item_name": "weathered-explorers-stave"
+},{
+  "id": 682,
+  "id_crafted_item": 194874,
+  "item_name": "scribes-fastened-quill"
+},{
+  "id": 683,
+  "id_crafted_item": 194875,
+  "item_name": "scribes-resplendent-quill"
+},{
+  "id": 684,
+  "id_crafted_item": 194732,
+  "item_name": "illusion-parchment-love-charm"
+},{
+  "id": 685,
+  "id_crafted_item": 194731,
+  "item_name": "illusion-parchment-magma-missile"
+},{
+  "id": 686,
+  "id_crafted_item": 194733,
+  "item_name": "illusion-parchment-aqua-torrent"
+},{
+  "id": 687,
+  "id_crafted_item": 194734,
+  "item_name": "illusion-parchment-whirling-breeze"
+},{
+  "id": 688,
+  "id_crafted_item": 194735,
+  "item_name": "illusion-parchment-arcane-burst"
+},{
+  "id": 689,
+  "id_crafted_item": 194736,
+  "item_name": "illusion-parchment-chilling-wind"
+},{
+  "id": 690,
+  "id_crafted_item": 194737,
+  "item_name": "illusion-parchment-spell-shield"
+},{
+  "id": 691,
+  "id_crafted_item": 194738,
+  "item_name": "illusion-parchment-shadow-orb"
+},{
+  "id": 697,
+  "id_crafted_item": 196981,
+  "item_name": "cliffside-wylderdrake-conical-head"
+},{
+  "id": 698,
+  "id_crafted_item": 196988,
+  "item_name": "cliffside-wylderdrake-red-hair"
+},{
+  "id": 699,
+  "id_crafted_item": 196980,
+  "item_name": "cliffside-wylderdrake-triple-head-horns"
+},{
+  "id": 700,
+  "id_crafted_item": 197117,
+  "item_name": "highland-drake-black-hair"
+},{
+  "id": 701,
+  "id_crafted_item": 197108,
+  "item_name": "highland-drake-spined-head"
+},{
+  "id": 702,
+  "id_crafted_item": 197154,
+  "item_name": "highland-drake-spined-neck"
+},{
+  "id": 703,
+  "id_crafted_item": 197394,
+  "item_name": "renewed-proto-drake-predator-pattern"
+},{
+  "id": 704,
+  "id_crafted_item": 197377,
+  "item_name": "renewed-proto-drake-bovine-horns"
+},{
+  "id": 705,
+  "id_crafted_item": 197362,
+  "item_name": "renewed-proto-drake-spined-crest"
+},{
+  "id": 706,
+  "id_crafted_item": 197597,
+  "item_name": "windborne-velocidrake-black-fur"
+},{
+  "id": 707,
+  "id_crafted_item": 197592,
+  "item_name": "windborne-velocidrake-spined-head"
+},{
+  "id": 708,
+  "id_crafted_item": 197634,
+  "item_name": "windborne-velocidrake-windswept-pattern"
+},{
+  "id": 709,
+  "id_crafted_item": 197347,
+  "item_name": "renewed-proto-drake-silver-and-blue-armor"
+},{
+  "id": 710,
+  "id_crafted_item": 197352,
+  "item_name": "renewed-proto-drake-steel-and-yellow-armor"
+},{
+  "id": 711,
+  "id_crafted_item": 198510,
+  "item_name": "draconic-treatise-on-engineering",
+  "id_recipe_item": 47602
+},{
+  "id": 714,
+  "id_crafted_item": 198836,
+  "item_name": "arclight-vital-correctors"
+},{
+  "id": 716,
+  "id_crafted_item": 198804,
+  "item_name": "frost-infused-creature-bait"
+},{
+  "id": 717,
+  "id_crafted_item": 198805,
+  "item_name": "earth-infused-creature-bait"
+},{
+  "id": 718,
+  "id_crafted_item": 198806,
+  "item_name": "decay-infused-creature-bait"
+},{
+  "id": 719,
+  "id_crafted_item": 198807,
+  "item_name": "titan-infused-creature-bait"
+},{
+  "id": 720,
+  "id_crafted_item": 190321,
+  "item_name": "awakened-fire"
+},{
+  "id": 723,
+  "id_crafted_item": 191305,
+  "item_name": "expedition-multi-toolbox"
+},{
+  "id": 724,
+  "id_crafted_item": 199414,
+  "item_name": "zapthrottle-soul-inhaler",
+  "id_recipe_item": 47681
+},{
+  "id": 726,
+  "id_crafted_item": 140367,
+  "item_name": "tattered-sheet-music"
+},{
+  "id": 744,
+  "id_crafted_item": 191304,
+  "item_name": "sturdy-expedition-shovel",
+  "id_recipe_item": 47751
+},{
+  "id": 773,
+  "id_crafted_item": 198715,
+  "item_name": "runed-draconium-rod",
+  "id_recipe_item": 47807
+},{
+  "id": 774,
+  "id_crafted_item": 198716,
+  "item_name": "runed-khazgorite-rod"
+},{
+  "id": 783,
+  "id_crafted_item": 200641,
+  "item_name": "enchanted-writhebark-wand",
+  "id_recipe_item": 47822
+},{
+  "id": 784,
+  "id_crafted_item": 200642,
+  "item_name": "torch-of-primal-awakening",
+  "id_recipe_item": 47823
+},{
+  "id": 788,
+  "id_crafted_item": 197578,
+  "item_name": "windborne-velocidrake-silver-and-blue-armor"
+},{
+  "id": 789,
+  "id_crafted_item": 197091,
+  "item_name": "highland-drake-silver-and-blue-armor"
+},{
+  "id": 790,
+  "id_crafted_item": 196963,
+  "item_name": "cliffside-wylderdrake-silver-and-blue-armor"
+},{
+  "id": 791,
+  "id_crafted_item": 197579,
+  "item_name": "windborne-velocidrake-steel-and-orange-armor"
+},{
+  "id": 792,
+  "id_crafted_item": 197096,
+  "item_name": "highland-drake-steel-and-yellow-armor"
+},{
+  "id": 793,
+  "id_crafted_item": 196968,
+  "item_name": "cliffside-wylderdrake-steel-and-yellow-armor"
+},{
+  "id": 794,
+  "id_crafted_item": 200938,
+  "item_name": "empty-soul-cage",
+  "id_recipe_item": 47902
+},{
+  "id": 795,
+  "id_crafted_item": 201023,
+  "item_name": "draconic-treatise-on-skinning",
+  "id_recipe_item": 47928
+},{
+  "id": 796,
+  "id_crafted_item": 198206,
+  "item_name": "environmental-emulator",
+  "id_recipe_item": 47453
+},{
+  "id": 797,
+  "id_crafted_item": 198173,
+  "item_name": "atomic-recalibrator",
+  "id_recipe_item": 47414
+},{
+  "id": 798,
+  "id_crafted_item": 198264,
+  "item_name": "centralized-precipitation-emitter",
+  "id_recipe_item": 47454
+},{
+  "id": 800,
+  "id_crafted_item": 198172,
+  "item_name": "bundle-of-fireworks",
+  "id_recipe_item": 47507
+},{
+  "id": 801,
+  "id_crafted_item": 198549,
+  "item_name": "black-fireflight",
+  "id_recipe_item": 47620
+},{
+  "id": 802,
+  "id_crafted_item": 200470,
+  "item_name": "illusion-primal-mastery"
+},{
+  "id": 803,
+  "id_crafted_item": 200907,
+  "item_name": "illusion-primal-frost"
+},{
+  "id": 804,
+  "id_crafted_item": 198222,
+  "item_name": "blue-fireflight",
+  "id_recipe_item": 47419
+},{
+  "id": 805,
+  "id_crafted_item": 200906,
+  "item_name": "illusion-primal-fire"
+},{
+  "id": 806,
+  "id_crafted_item": 200905,
+  "item_name": "illusion-primal-earth"
+},{
+  "id": 807,
+  "id_crafted_item": 200883,
+  "item_name": "illusion-primal-air"
+},{
+  "id": 808,
+  "id_crafted_item": 200469,
+  "item_name": "khadgars-disenchanting-rod"
+},{
+  "id": 809,
+  "id_crafted_item": 198550,
+  "item_name": "bronze-fireflight",
+  "id_recipe_item": 47621
+},{
+  "id": 810,
+  "id_crafted_item": 200479,
+  "item_name": "sophic-amalgamation",
+  "id_recipe_item": 47809
+},{
+  "id": 811,
+  "id_crafted_item": 198224,
+  "item_name": "green-fireflight",
+  "id_recipe_item": 47499
+},{
+  "id": 812,
+  "id_crafted_item": 201158,
+  "item_name": "scepter-of-spectacle-order"
+},{
+  "id": 813,
+  "id_crafted_item": 200535,
+  "item_name": "scepter-of-spectacle-frost"
+},{
+  "id": 814,
+  "id_crafted_item": 200472,
+  "item_name": "scepter-of-spectacle-fire"
+},{
+  "id": 815,
+  "id_crafted_item": 198223,
+  "item_name": "red-fireflight",
+  "id_recipe_item": 47418
+},{
+  "id": 816,
+  "id_crafted_item": 201160,
+  "item_name": "scepter-of-spectacle-earth"
+},{
+  "id": 817,
+  "id_crafted_item": 192443,
+  "item_name": "element-infused-rocket-helmet",
+  "id_recipe_item": 47451
+},{
+  "id": 818,
+  "id_crafted_item": 201161,
+  "item_name": "scepter-of-spectacle-air"
+},{
+  "id": 819,
+  "id_crafted_item": 198227,
+  "item_name": "giggle-goggles",
+  "id_recipe_item": 47452
+},{
+  "id": 820,
+  "id_crafted_item": 198156,
+  "item_name": "wyrmhole-generator-dragon-isles"
+},{
+  "id": 821,
+  "id_crafted_item": 198265,
+  "item_name": "portable-alchemists-lab-bench"
+},{
+  "id": 822,
+  "id_crafted_item": 198268,
+  "item_name": "portable-tinkers-workbench"
+},{
+  "id": 823,
+  "id_crafted_item": 198247,
+  "item_name": "neural-silencer-mk3",
+  "id_recipe_item": 47415
+},{
+  "id": 824,
+  "id_crafted_item": 193572,
+  "item_name": "quack-e",
+  "id_recipe_item": 47502
+},{
+  "id": 825,
+  "id_crafted_item": 201322,
+  "item_name": "draconium-defender",
+  "id_recipe_item": 47937
+},{
+  "id": 827,
+  "id_crafted_item": 201324,
+  "item_name": "draconium-great-axe",
+  "id_recipe_item": 47938
+},{
+  "id": 832,
+  "id_crafted_item": 201366,
+  "item_name": "masters-hammer"
+},{
+  "id": 833,
+  "id_crafted_item": 201601,
+  "item_name": "runed-serevite-rod",
+  "id_recipe_item": 47951
+},{
+  "id": 834,
+  "id_crafted_item": 201759,
+  "item_name": "torc-of-passed-time",
+  "id_recipe_item": 47955
+},{
+  "id": 835,
+  "id_crafted_item": 201930,
+  "item_name": "h-e-l-p"
+},{
+  "id": 839,
+  "id_crafted_item": 201955,
+  "item_name": "explorers-expert-clasp"
+},{
+  "id": 840,
+  "id_crafted_item": 201953,
+  "item_name": "explorers-expert-gauntlets"
+},{
+  "id": 841,
+  "id_crafted_item": 201954,
+  "item_name": "explorers-expert-greaves"
+},{
+  "id": 842,
+  "id_crafted_item": 201951,
+  "item_name": "explorers-expert-helm"
+},{
+  "id": 843,
+  "id_crafted_item": 201952,
+  "item_name": "explorers-expert-spaulders"
+},{
+  "id": 844,
+  "id_crafted_item": 201945,
+  "item_name": "pioneers-practiced-belt"
+},{
+  "id": 846,
+  "id_crafted_item": 201941,
+  "item_name": "pioneers-practiced-cowl"
+},{
+  "id": 847,
+  "id_crafted_item": 201943,
+  "item_name": "pioneers-practiced-gloves"
+},{
+  "id": 848,
+  "id_crafted_item": 201944,
+  "item_name": "pioneers-practiced-leggings"
+},{
+  "id": 849,
+  "id_crafted_item": 201942,
+  "item_name": "pioneers-practiced-shoulderpads"
+},{
+  "id": 852,
+  "id_crafted_item": 201940,
+  "item_name": "surveyors-seasoned-cord"
+},{
+  "id": 853,
+  "id_crafted_item": 201938,
+  "item_name": "surveyors-seasoned-gloves"
+},{
+  "id": 854,
+  "id_crafted_item": 201936,
+  "item_name": "surveyors-seasoned-hood"
+},{
+  "id": 855,
+  "id_crafted_item": 201939,
+  "item_name": "surveyors-seasoned-pants"
+},{
+  "id": 856,
+  "id_crafted_item": 201937,
+  "item_name": "surveyors-seasoned-shoulders"
+},{
+  "id": 862,
+  "id_crafted_item": 201950,
+  "item_name": "trailblazers-toughened-chainbelt"
+},{
+  "id": 863,
+  "id_crafted_item": 201946,
+  "item_name": "trailblazers-toughened-coif"
+},{
+  "id": 864,
+  "id_crafted_item": 201948,
+  "item_name": "trailblazers-toughened-grips"
+},{
+  "id": 865,
+  "id_crafted_item": 201949,
+  "item_name": "trailblazers-toughened-legguards"
+},{
+  "id": 866,
+  "id_crafted_item": 201947,
+  "item_name": "trailblazers-toughened-spikes"
+},{
+  "id": 869,
+  "id_crafted_item": 202087,
+  "item_name": "tinker-removal-kit",
+  "id_recipe_item": 47997
+},{
+  "id": 871,
+  "id_crafted_item": 52322,
+  "item_name": "eye-of-many-deaths"
+},{
+  "id": 873,
+  "id_crafted_item": 202290,
+  "item_name": "firewater-sorbet",
+  "id_recipe_item": 48015
+},{
+  "id": 876,
+  "id_crafted_item": 203375,
+  "item_name": "crimson-combatants-medallion"
+},{
+  "id": 877,
+  "id_crafted_item": 203376,
+  "item_name": "crimson-combatants-insignia-of-alacrity"
+},{
+  "id": 878,
+  "id_crafted_item": 203377,
+  "item_name": "crimson-combatants-emblem"
+},{
+  "id": 880,
+  "id_crafted_item": 203407,
+  "item_name": "draconic-suppression-powder",
+  "id_recipe_item": 48170
+},{
+  "id": 881,
+  "id_crafted_item": 203408,
+  "item_name": "ancient-ceremonial-trident",
+  "id_recipe_item": 48176
+},{
+  "id": 882,
+  "id_crafted_item": 203409,
+  "item_name": "sparkling-spice-pouch",
+  "id_recipe_item": 48177
+},{
+  "id": 883,
+  "id_crafted_item": 203410,
+  "item_name": "glowing-crystal-bookmark",
+  "id_recipe_item": 48178
+},{
+  "id": 884,
+  "id_crafted_item": 203411,
+  "item_name": "gnomish-voicebox",
+  "id_recipe_item": 48179
+},{
+  "id": 885,
+  "id_crafted_item": 203412,
+  "item_name": "arcane-dispelling-rune",
+  "id_recipe_item": 48180
+},{
+  "id": 886,
+  "id_crafted_item": 203413,
+  "item_name": "crystal-tuning-fork",
+  "id_recipe_item": 48181
+},{
+  "id": 887,
+  "id_crafted_item": 203414,
+  "item_name": "reinforced-pristine-leather",
+  "id_recipe_item": 48182
+},{
+  "id": 888,
+  "id_crafted_item": 203415,
+  "item_name": "traditional-morqut-kite",
+  "id_recipe_item": 48183
+},{
+  "id": 943,
+  "id_crafted_item": 204072,
+  "item_name": "deviously-deviled-eggs",
+  "id_recipe_item": 48280
+},{
+  "id": 10,
+  "id_crafted_item": 189182,
+  "item_name": null
+},{
+  "id": 194,
+  "id_crafted_item": 191935,
+  "item_name": null
+},{
+  "id": 274,
+  "id_crafted_item": 193034,
+  "item_name": null
+},{
+  "id": 274,
+  "id_crafted_item": 193034,
+  "item_name": null
+},{
+  "id": 194,
+  "id_crafted_item": 191935,
+  "item_name": null
+},{
+  "id": 10,
+  "id_crafted_item": 189182,
+  "item_name": null
+}]

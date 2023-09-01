@@ -527,7 +527,7 @@
 1349056, DBFilesClient\JournalTier.db2
 1349477, DBFilesClient\Map.db2
 1351351, DBFilesClient\CreatureFamily.db2
-1352127, DBFilesClient\Difficulty.db2
+1352127, DBFilesClient\ListingDuration.db2
 1352378, DBFilesClient\AreaTriggerActionSet.db2
 1353545, DBFilesClient\AreaTable.db2
 1354401, DBFilesClient\AreaTrigger.db2
